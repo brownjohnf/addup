@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/brownjohnf/addup.svg?branch=master)](https://travis-ci.org/brownjohnf/addup)
+
 # addup
 
 Adds integers in columns from stdin (like sort, but for adding things up).
